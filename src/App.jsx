@@ -25,7 +25,7 @@ export default function App() {
       </main>
 
       {/* Bottom Nav */}
-      <nav className="bg-gradient-to-r from-purple-500 to-blue-500 to-green-500">
+      <nav className="bg-gradient-to-r from-purple-500 to-blue-500 to-red-500 to-green-500">
         <div className="mx-auto max-w-md grid grid-cols-4 text-white">
           <Tab to="/" label="Home" icon="🏠" />
           <Tab to="/earn" label="Earn" icon="💰" />
