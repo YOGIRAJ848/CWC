@@ -1,5 +1,5 @@
 import { Telegraf } from "telegraf";
-const bot = new Telegraf(process.env.8183297173:AAEpwXgMaUWr_TY9FkQzJwd56fsVed8EYdU);
+const bot = new Telegraf(process.env.8183297173:AAHS36fw0KgZtztJm6x1-JBvIej5tKI8Ph0
 
 // Handle /start
 bot.start((ctx) => {
