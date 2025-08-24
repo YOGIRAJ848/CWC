@@ -7,7 +7,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "start": "node src/bot.js"
+    "start": "node bot.js"
   },
   "dependencies": {
     "mongodb": "^6.18.0",
